@@ -7,6 +7,15 @@ We are a team based in the [School of Computing, National University of Singapor
 
 ## Project team
 
+### Adib Shifas
+
+<img src="images/adibshifas.png" width="200px">
+
+[[github](https://github.com/AdibShifas)]
+[[portfolio](team/adibshifas.md)]
+
+* Role: Developer
+
 ### Manish Choudhary
 
 <img src="images/notdotmanish.png" width="200px">
